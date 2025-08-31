@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hemalekha28/leetcode-solutions/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hemalekha28/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hemalekha28/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hemalekha28/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hemalekha28/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
